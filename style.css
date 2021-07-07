@@ -50,3 +50,35 @@
 .container1{
     background-color: white;
 }
+
+.infoStyle11 h1{
+    color: #707070;
+    margin-bottom: 30px;
+}
+.infoStyle11 p{
+    font-size: 14px;
+    font-weight: 200;
+    color: #707070;
+    margin-bottom: 60px;
+}
+.infoStyle1{
+    width: 50%;
+    padding-left: 20%;
+
+}
+.infoStyle1 img{
+    width: 40%;
+}
+.container2{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+   
+    
+}
+.infoStyle11{
+    width: 20%;
+   
+}
+.anotherContainer{
+    margin-top: 100px;
+}
